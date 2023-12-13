@@ -1,7 +1,9 @@
-package Model;
+package View;
 
 import java.util.Random;
 import java.util.Scanner;
+
+import Model.PlayerDTO;
 
 public class Main {
 
